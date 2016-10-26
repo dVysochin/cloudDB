@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="cloudDB:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="MyspringTest-1.0-SNAPSHOT.war">
-      <element id="artifact" artifact-name="cloudDB:war exploded" />
-    </root>
-  </artifact>
-</component>
